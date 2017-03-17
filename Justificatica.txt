@@ -1,0 +1,3 @@
+Escolhi o padrão Abstract Factory por ver a necessidade de criação de pizzas separando
+por estilos (NY e Chicago), ou seja por familias de objetos, já que o padrão Builder
+trata da criação de objetos complexos ou seja com muitos atributos.
